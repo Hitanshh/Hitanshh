@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hitansh Sharma
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently MERN and trying my hands on Django aling with GCP
+- 🌱 I’m currently learning MERN and trying my hands on Django aling with GCP
 - 💞️ I’m looking for Internship opportunities
 
 
